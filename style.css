@@ -214,7 +214,7 @@
     }
     .links .btn{
         float: none;
-        margin-left: 25px;
+        margin-left: 0px;
         margin-top: 10px;
     }
 }
